@@ -1,70 +1,106 @@
-# 📝 To-Do List CLI Application
+# Python Internship Projects
 
-A simple and efficient Command-Line Interface (CLI) To-Do List application built with Python. This project allows users to manage their daily tasks through a menu-driven interface, making task organization quick and convenient.
+This repository contains Python projects completed as part of the Python Development Internship Program at Synent Technologies. These projects focus on strengthening programming fundamentals, problem-solving skills, and practical application development using Python.
 
-## 📌 Project Overview
+---
 
-This application was developed as part of the Python Development Internship Program. It demonstrates core Python programming concepts such as functions, lists, loops, conditional statements, and user input handling.
+# Project 1: To-Do List CLI Application
 
-## ✨ Features
+## Overview
 
-* Add new tasks
-* View all existing tasks
-* Delete completed or unwanted tasks
-* Interactive menu-driven interface
+A command-line task management application that allows users to organize daily activities through a simple menu-driven interface.
+
+## Features
+
+* Add tasks
+* View tasks
+* Delete tasks
+* Interactive CLI menu
 * Input validation and error handling
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
-* Visual Studio Code
 * Git & GitHub
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/degalapardhiv/SYNENT-todolist-pardhiv.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd SYNENT-todolist-pardhiv
-```
-
-3. Run the application:
+## How to Run
 
 ```bash
 python3 todo.py
 ```
 
-## 📷 Sample Menu
+## Learning Outcomes
 
-```text
-===== TO-DO LIST =====
-1. View Tasks
-2. Add Task
-3. Delete Task
-4. Exit
+* Functions and modular programming
+* Lists and data manipulation
+* User input handling
+* Exception handling
+
+---
+
+# Project 2: Secure Password Generator
+
+## Overview
+
+A Python-based command-line application that generates strong and secure passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters.
+
+## Features
+
+* Custom password length
+* Strong random password generation
+* Uppercase and lowercase characters
+* Numbers and special symbols
+* Input validation
+
+## Technologies Used
+
+* Python 3
+* Random Module
+* String Module
+
+## How to Run
+
+```bash
+python3 password_generator.py
 ```
 
-## 🎯 Learning Outcomes
+## Sample Output
 
-Through this project, I gained hands-on experience with:
+```text
+Generated Password:
+T@9m#K2!xP7$
+```
 
-* Python fundamentals
-* Function-based programming
-* Data structures (Lists)
-* User input handling
-* Error management
-* GitHub project management
+## Learning Outcomes
 
-## 👨‍💻 Author
+* Randomization techniques
+* String manipulation
+* Secure password generation
+* Python standard libraries
 
-Degala Pardhiv
+---
 
-## 📜 Internship Project
+# Skills Demonstrated
 
-Developed as part of the Python Development Internship Program at Synent Technologies.
+* Python Programming
+* CLI Application Development
+* Problem Solving
+* Error Handling
+* Git Version Control
+* GitHub Project Management
+
+---
+
+## Author
+
+**Your Name**
+
+GitHub: https://github.com/degalapardhiv
+
+LinkedIn: https://linkedin.com/in/degala-pardhiv-87b234390
+
+---
+
+## Internship Information
+
+These projects were completed as part of the Python Development Internship Program at Synent Technologies.
