@@ -1,93 +1,106 @@
-# Python Internship Projects
-
-This repository contains Python projects completed as part of the Python Development Internship Program at Synent Technologies. These projects focus on strengthening programming fundamentals, problem-solving skills, and practical application development using Python.
-
----
-
-# Project 1: To-Do List CLI Application
+# Python Development Internship Portfolio
 
 ## Overview
 
-A command-line task management application that allows users to organize daily activities through a simple menu-driven interface.
+This repository contains projects completed as part of the Python Development Internship Program at Synent Technologies. Each project was designed to strengthen core programming concepts, problem-solving abilities, and practical software development skills using Python.
 
-## Features
+The completed projects cover a range of topics including command-line application development, secure password generation, API integration, file handling, and structured programming practices.
 
-* Add tasks
-* View tasks
+---
+
+## Completed Projects
+
+### Task 3 – To-Do List CLI Application
+
+A command-line task management application developed to help users efficiently organize and manage daily activities.
+
+#### Key Features
+
+* Add new tasks
+* View existing tasks
 * Delete tasks
-* Interactive CLI menu
+* Interactive menu-driven interface
 * Input validation and error handling
 
-## Technologies Used
+#### Technologies Used
 
 * Python 3
-* Git & GitHub
-
-## How to Run
-
-```bash
-python3 todo.py
-```
-
-## Learning Outcomes
-
-* Functions and modular programming
-* Lists and data manipulation
-* User input handling
-* Exception handling
 
 ---
 
-# Project 2: Secure Password Generator
+### Task 4 – Secure Password Generator
 
-## Overview
+A Python-based application that generates strong and secure passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters.
 
-A Python-based command-line application that generates strong and secure passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters.
+#### Key Features
 
-## Features
-
-* Custom password length
-* Strong random password generation
-* Uppercase and lowercase characters
-* Numbers and special symbols
+* Custom password length selection
+* Secure random password generation
+* Support for uppercase and lowercase characters
+* Numeric and special character inclusion
 * Input validation
 
-## Technologies Used
+#### Technologies Used
 
 * Python 3
 * Random Module
 * String Module
 
-## How to Run
+---
 
-```bash
-python3 password_generator.py
-```
+### Task 6 – Weather Application (API Integration)
 
-## Sample Output
+A real-time weather information application that retrieves and displays weather data using the OpenWeatherMap API.
 
-```text
-Generated Password:
-T@9m#K2!xP7$
-```
+#### Key Features
 
-## Learning Outcomes
+* City-based weather search
+* Real-time temperature monitoring
+* Humidity and pressure information
+* Wind speed reporting
+* Weather condition display
+* Search history logging
+* Robust error handling
 
-* Randomization techniques
-* String manipulation
-* Secure password generation
-* Python standard libraries
+#### Technologies Used
+
+* Python 3
+* Requests Library
+* OpenWeatherMap API
+* JSON Data Processing
 
 ---
 
-# Skills Demonstrated
+## Technical Skills Demonstrated
 
 * Python Programming
-* CLI Application Development
+* Command-Line Interface (CLI) Development
+* API Integration
+* HTTP Requests and Response Handling
+* JSON Data Processing
+* File Handling
+* Exception Handling
+* Modular Programming
 * Problem Solving
-* Error Handling
-* Git Version Control
-* GitHub Project Management
+* Version Control with Git & GitHub
+
+---
+
+## Tools & Technologies
+
+* Python 3
+* Visual Studio Code
+* Git
+* GitHub
+* OpenWeatherMap API
+
+---
+
+## Learning Outcomes
+
+Through the successful completion of these projects, I gained hands-on experience in designing and developing practical Python applications, integrating third-party APIs, managing data efficiently, implementing error-handling mechanisms, and following software development best practices.
+
+These projects have significantly enhanced my understanding of real-world Python development workflows and strengthened my foundation in software engineering principles.
 
 ---
 
@@ -95,12 +108,12 @@ T@9m#K2!xP7$
 
 **Your Name**
 
-GitHub: https://github.com/degalapardhiv
+GitHub: https://github.com/your-username
 
-LinkedIn: https://linkedin.com/in/degala-pardhiv-87b234390
+LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
-## Internship Information
+## Acknowledgement
 
-These projects were completed as part of the Python Development Internship Program at Synent Technologies.
+Developed as part of the Python Development Internship Program at Synent Technologies.
