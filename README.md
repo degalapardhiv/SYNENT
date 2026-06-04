@@ -108,9 +108,9 @@ These projects have significantly enhanced my understanding of real-world Python
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/degalapardhiv
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/degala-pardhiv-87b234390
 
 ---
 
