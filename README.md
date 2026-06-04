@@ -106,7 +106,7 @@ These projects have significantly enhanced my understanding of real-world Python
 
 ## Author
 
-**Your Name**
+**Degala Pardhiv**
 
 GitHub: https://github.com/degalapardhiv
 
